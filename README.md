@@ -131,6 +131,8 @@ print(f"Average Spending Score: {overall_avg_spending:.2f}")
 
 
 ## Output
+<img width="775" height="545" alt="image" src="https://github.com/user-attachments/assets/4fcbf3f3-ebef-4577-98ae-d63e533b378d" />
+<img width="812" height="663" alt="image" src="https://github.com/user-attachments/assets/23611afb-8755-4baf-91d9-cad7ed83e5aa" />
 
 ## Result
 The program successfully creates a customer dataset using Pandas and performs exploratory analysis, sorting, filtering, regional grouping, and summary statistics.
